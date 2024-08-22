@@ -1,0 +1,10 @@
+/* SliderStyles.css */
+.slick-dots li.slick-active button:before {
+    color: rgb(41, 41, 230);
+    /* 选中的点颜色 */
+}
+
+.slick-dots li button:before {
+    color: gray;
+    /* 未选中的点颜色 */
+}
